@@ -1,0 +1,76 @@
+body html {
+    padding: 0;
+    margin: 0;    
+}
+
+.backgroundimg {   
+    background-size: cover; 
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    background-image: url('../images/bg1.jpg');
+}
+
+.section-padding {
+    padding: 100px 0; 
+}
+
+.line {
+    height: 2px;
+    width: 100px;
+    background: whitesmoke; 
+    margin: 0 auto 50px;  
+}
+
+.row {
+    margin-left: 0px; 
+    margin-right: 0px;   
+
+}
+
+.navbar {
+    position: absolute; 
+    background-image: url('../images/banner4.jpg');  
+    left: 0; 
+    top: 0; 
+    background-size: cover; 
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    
+}
+
+.nav-item {
+    color: whitesmoke; 
+    padding: 0 20px; 
+    text-transform: uppercase; 
+}
+
+
+.brand {
+    font: size 20px;    
+    color: black; 
+    padding: 10px 15px;  
+}
+
+
+.footer-copyright {    
+    background-image: url('../images/banner4.jpg');  
+    left: 0; 
+    top: 0; 
+    background-size: cover; 
+    background-position: center center; 
+    background-repeat: no-repeat; 
+}
+
+.img-fluid {
+    box-shadow: 15px 15px 8px black;
+}
+
+#text-background{
+    background-color: rgba(243, 235, 223, 0.7);
+    padding: 1rem;
+    color:black;
+}
+
+.row{
+    color: whitesmoke;
+}
