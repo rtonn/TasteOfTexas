@@ -16,7 +16,7 @@ body html {
 
 .line {
     height: 2px;
-    width: 100px;
+    width: 300px;
     background: whitesmoke; 
     margin: 0 auto 50px;  
 }
@@ -29,7 +29,8 @@ body html {
 
 .navbar {
     position: absolute; 
-    background-image: url('../images/banner4.jpg');  
+    /* background-image: url('../images/banner4.jpg');   */
+    background: lightgray; 
     left: 0; 
     top: 0; 
     background-size: cover; 
@@ -53,7 +54,8 @@ body html {
 
 
 .footer-copyright {    
-    background-image: url('../images/banner4.jpg');  
+    /* background-image: url('../images/banner4.jpg');   */
+    background: lightgray; 
     left: 0; 
     top: 0; 
     background-size: cover; 
